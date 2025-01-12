@@ -4,7 +4,7 @@
   I'm Nana, a passionate developer from Austria :)
 </p>
 
-<h2 align="left">About me :)</h2>
+<h2 align="left">👩🏻‍💻 About me</h2>
 
 <p align="left">
   ✨ Creating bugs since 2019 <br>
