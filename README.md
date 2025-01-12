@@ -1,12 +1,10 @@
 <h1 align="left">Hi there! </h1>
 ###
-<p align="left">My name is ... and I'm a ..., from ....</p>
-###
 <h2 align="left">About me</h2>
 ###
 <p align="left">
   ✨ Creating bugs since 2019 <br>
-  📚 I'm currently studying  Media and Human-Centred Computing @TU Vienna <br>
+  📚 I'm currently studying Media and Human-Centred Computing @TU Vienna <br>
   🎯 Goals: Finishing my Master Thesis about real-time language translation <br>
   📫 How to reach me: renate.zhang@outlook.com
 
