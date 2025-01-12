@@ -1,6 +1,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87D3F7&width=500&lines=Hi+there!+%3C3" alt="Typing SVG" /></a>
-<h3 align="center">A passionate developer from Austria </h3>
+<p align="left">
+  I'm Nana, a passionate developer from Austria :)
+</p>
 
 <h2 align="left"></h2>
 <h3 align="left">About me :)</h2>
@@ -10,7 +12,7 @@
   📚 I'm currently studying Media and Human-Centred Computing @TU Vienna <br>
   🎯 Goals: Finishing my Master Thesis about real-time language translation <br>
   📫 How to reach me: renate.zhang@outlook.com
-
+</p>
 
 <h2 align="left"></h2>
 &nbsp;
