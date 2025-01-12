@@ -10,7 +10,6 @@
   ✨ Creating bugs since 2019 <br>
   📚 I'm currently studying Media and Human-Centred Computing @TU Vienna <br>
   🎯 Goals: Finishing my Master Thesis about real-time language translation <br>
-  📫 How to reach me: renate.zhang@outlook.com
 </p>
 
 <h2 align="left">🪄 Coding</h2>
