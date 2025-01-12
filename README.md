@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87D3F7&width=500&lines=Hi+there!+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B8EFF&width=500&lines=Hi+there!+%3C3" alt="Typing SVG" /></a>
 <p align="left">
   I'm Nana, a passionate developer from Austria :)
 </p>
