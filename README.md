@@ -12,7 +12,7 @@
   🎯 Goals: Finishing my Master thesis about <a href="https://www.vr.tuwien.ac.at/topics/immersive-real-time-language-translator-for-augmented-reality/"> Real-Rime Language Translation in AR</a> @Virtual & Augmented Reality Institute <br>
 </p>
 
-<h2 align="left">🪄 Coding</h2>
+<h2 align="left">🪄 Coding Expertise</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
