@@ -8,7 +8,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2019 <br>
-  📚 I'm currently studying Media and Human-Centred Computing <a href="https://informatics.tuwien.ac.at/master/media-and-human-centered-computing/">@TU Vienna</a> <br>
+  📚 I'm currently studying <a href="https://informatics.tuwien.ac.at/master/media-and-human-centered-computing/">Media and Human-Centred Computing</a> @TU Vienna <br>
   🎯 Goals: Finishing my Master thesis about real-time language translation in AR <br>
 </p>
 
