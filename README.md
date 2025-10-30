@@ -7,7 +7,6 @@
 <h2 align="left">👩🏻‍💻 About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2019 <br>
   📚 Currently a research intern at <a href="https://cbl.aalto.fi/">Computational Behavior Lab</a> @Aalto University
   and studying <a href="https://informatics.tuwien.ac.at/master/media-and-human-centered-computing/">Media and Human-Centred Computing</a> @TU Vienna <br>
   🎯 Goals: Finishing my Master thesis about <a href="https://www.vr.tuwien.ac.at/topics/immersive-real-time-language-translator-for-augmented-reality/"> Real-Rime Language Translation in AR</a> @Virtual & Augmented Reality Research Unit  <br>
